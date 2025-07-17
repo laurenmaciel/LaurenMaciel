@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**laurenmaciel/LaurenMaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Oiê, Eu sou a Lauren! 👋🏻
+## ✨ Seja bem-vindo(a) ao meu espaço no GitHub! ✨
 
-Here are some ideas to get you started:
+ 👩🏻‍💻‍Desenvolvedora em formação, movida pela curiosidade e pelo desejo de criar códigos que tenham propósito e façam a diferença.
+Atualmente estou focada em aprofundar meus conhecimentos em lógica de programação e com alguns projetos focados em HTML, CSS e JavaScript — construindo uma base sólida para atuar com confiança em projetos reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui no GitHub, compartilho meus projetos em andamento e experimentos como forma de colocar em prática o que venho aprendendo.   
+Busco evoluir constantemente, unindo aprendizado técnico com visão prática para entregar soluções eficientes e bem estruturadas.
+
+### Quem eu sou
+
+- 🎓 Graduanda em Sistemas de Informação
+- 💻Técnica em Informática com formação pela Etec Fernando Prestes
+- 📚 Estudando e me aventurando em ⚙️C#, 🌐.NET
+- 🌎 Explorando novas tecnologias e desenvolvendo soluções de software
+- 🔄 Acredito na aprendizagem contínua e na troca de experiências
+- 🔍 Foco em desenvolvimento web e backend, com interesse em boas práticas de código
+- 👩‍💻‍ Women in tech ❤️
+
+***
+# 🐍 Jogo da Cobrinha 
+![Jogo da Cobrinha] (https://github.com/laurenmaciel/jogo-cobrinha/raw/main/snakegame.gif)
+[Jogue aqui no GitHub Pages](https://laurenmaciel.github.io/jogo-cobrinha/)
+
