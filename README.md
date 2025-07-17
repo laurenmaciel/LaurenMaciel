@@ -21,5 +21,6 @@ Busco evoluir constantemente, unindo aprendizado técnico com visão prática pa
 ***
 # 🐍 Jogo da Cobrinha 
 ![Jogo da Cobrinha] (https://github.com/laurenmaciel/jogo-cobrinha/raw/main/snakegame.gif)
+***
 [Jogue aqui no GitHub Pages](https://laurenmaciel.github.io/jogo-cobrinha/)
 
