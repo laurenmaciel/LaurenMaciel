@@ -8,6 +8,7 @@ Atualmente estou focada em aprofundar meus conhecimentos em lógica de programa�
 Aqui no GitHub, compartilho meus projetos em andamento e experimentos como forma de colocar em prática o que venho aprendendo.   
 Busco evoluir constantemente, unindo aprendizado técnico com visão prática para entregar soluções eficientes e bem estruturadas.
 
+****
 ### Quem eu sou
 
 - 🎓 Graduanda em Sistemas de Informação
