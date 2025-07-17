@@ -13,7 +13,7 @@ Busco evoluir constantemente, unindo aprendizado técnico com visão prática pa
 
 - 🎓 Graduanda em Sistemas de Informação
 - 💻Técnica em Informática com formação pela Etec Fernando Prestes
-- 📚 Estudando e me aventurando em ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white), ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+- 📚 Estudando e me aventurando em ![C#](https://img.shields.io/badge/C%23-92348C?style=for-the-badge&logo=c-sharp&logoColor=white), ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 - 🌎 Explorando novas tecnologias e desenvolvendo soluções de software
 - 🔄 Acredito na aprendizagem contínua e na troca de experiências
 - 🔍 Foco em desenvolvimento web e backend, com interesse em boas práticas de código
